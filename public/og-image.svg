@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f4ef"/>
+  <circle cx="960" cy="120" r="180" fill="#d99a46" opacity=".35"/>
+  <rect x="120" y="110" width="960" height="410" rx="42" fill="#111827"/>
+  <text x="180" y="240" fill="#fff" font-family="Inter, Arial" font-size="76" font-weight="800">JournalReady AI</text>
+  <text x="180" y="325" fill="#cbd5e1" font-family="Inter, Arial" font-size="38">APA-informed manuscript submission tools</text>
+  <text x="180" y="395" fill="#f8d38d" font-family="Inter, Arial" font-size="32">Public significance · Abstracts · CRediT · Editor emails</text>
+</svg>
