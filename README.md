@@ -13,6 +13,7 @@ This MVP is a fully client-side React/Vite website with APA-informed guides and 
 - Editor Email Generator
 - Limitations Paragraph Improver
 - Preregistered vs Exploratory Wording Checker
+- Submission Readiness Diagnostic with score, risks, and next actions
 
 ## Guide library
 
@@ -23,6 +24,7 @@ The site includes practical guides for:
 - Separating preregistered and exploratory analyses
 - CRediT contribution statements
 - APA reference-list cleanup
+- Submission-readiness checks before upload
 
 Official APA Style references are linked throughout the website. The content is APA-informed and should be verified against each target journal's instructions.
 
